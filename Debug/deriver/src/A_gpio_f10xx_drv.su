@@ -1,0 +1,12 @@
+A_gpio_f10xx_drv.c:31:6:GPIO_Clock_CONTROL	16	static
+A_gpio_f10xx_drv.c:57:6:GPIO_Init	24	static
+A_gpio_f10xx_drv.c:189:6:GPIO_Deinit	16	static
+A_gpio_f10xx_drv.c:209:6:GPIO_Write_PIN	16	static
+A_gpio_f10xx_drv.c:234:6:GPIO_Write_PORT	16	static
+A_gpio_f10xx_drv.c:256:10:GPIO_Read	16	static
+A_gpio_f10xx_drv.c:265:10:GPIO_Read_PIN	16	static
+A_gpio_f10xx_drv.c:284:6:GPIO_Toggle_PIN	16	static
+A_gpio_f10xx_drv.c:312:6:GPIO_IRQConf	16	static
+A_gpio_f10xx_drv.c:331:6:GPIO_IRQHandler	16	static
+A_gpio_f10xx_drv.c:349:6:SOFT_IRQ_Request	16	static
+A_gpio_f10xx_drv.c:367:9:Event_Pending	16	static
